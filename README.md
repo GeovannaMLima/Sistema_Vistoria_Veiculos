@@ -1,4 +1,4 @@
-# Sistema de Vistoria Veicular Digital (Federal Police Internship)
+# Sistema de Vistoria Veicular Digital 
 
 > **Nota:** Este é um projeto desenvolvido para uso interno real. 
 
@@ -65,6 +65,10 @@ Este repositório contém a documentação técnica e extração da lógica de n
 |:---:|:---:|:---:|
 | <img src="assets/tela-vistoria.png" width="200"> | <img src="assets/pdf-gerado.png" width="200"> | <img src="assets/fluxo-automate.png" width="200"> |
 
+> [!NOTE]
+> **Contexto Institucional**
+>
+> Solução projetada e implementada na **Superintendência Regional da Polícia Federal no Maranhão** (SR/PF/MA). O sistema atende à demanda do Setor de Transportes, modernizando o fluxo de saída de viaturas e garantindo maior controle administrativo.
 ---
 **Autor:** Geovanna Lima
 * [LinkedIn](https://www.linkedin.com/in/geovanna-lima0308)
