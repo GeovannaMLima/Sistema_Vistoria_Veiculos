@@ -1,0 +1,56 @@
+{
+  "ID": 96,
+  "Title": "ABC-1234",
+  "Marca": "CHEVROLET",
+  "Modelo": "TRAILBLAZER",
+  "Cor": "PRETA",
+  "Odom_x00ea_tro": 4233,
+  "Nome": "Motorista Teste da Silva",
+  "Matricula": "12345",
+  "Cargo": "Agente Administrativo",
+  "TipoVeiculo": {
+    "Value": "SUV"
+  },
+  "NivelCombustivel": {
+    "Value": "Cheio"
+  },
+  "StatusVistoria": {
+    "Value": "Concluido"
+  },
+  "TemExtintor": false,
+  "TemTriangulo": true,
+  "TemMacaco": true,
+  "TemChavedeRoda": true,
+  "TemEstepe": true,
+  "TemCalotas": true,
+  "TemAntena": true,
+  "TemTapetes": true,
+  "TemRadioCd": true,
+  "TemManual": true,
+  "TemDocumento": true,
+  "TemCartaoAbastecimento": true,
+  "EstadoPneus": {
+    "Value": "Bom"
+  },
+  "EstadoPintura": {
+    "Value": "Bom"
+  },
+  "EstadoFarois": {
+    "Value": "Bom"
+  },
+  "EstadoLanternas": {
+    "Value": "Bom"
+  },
+  "EstadoEstofamento": {
+    "Value": "Bom"
+  },
+  "AssinaturaCodigo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA... (string base64 truncada para demonstração)",
+  "ImagensCarroCodigo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA... (string base64 truncada para demonstração)",
+  "Created": "2026-02-05T14:18:55Z",
+  "Author": {
+    "DisplayName": "Dev",
+    "Email": "dev@exemplo.com.br",
+    "JobTitle": "ESTAGIÁRIO"
+  },
+  "LinkItem": "https://sharepoint.com/sites/demo/listform.aspx?ID=xx"
+}
