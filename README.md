@@ -63,7 +63,7 @@ Este repositório contém a documentação técnica e extração da lógica de n
 ##  Screenshots
 | Interface do Tablet | Relatório PDF Gerado | Fluxo de Automação |
 |:---:|:---:|:---:|
-| <img src="assets/tela_vistoria.png" width="200"> | <img src="assets/pdf-gerado.png" width="200"> | <img src="assets/fluxo_automate.png" width="200"> |
+| <img src="assets/tela-vistoria.png" width="200"> | <img src="assets/pdf-gerado.png" width="200"> | <img src="assets/fluxo-automate.png" width="200"> |
 
 ---
 **Autor:** Geovanna Lima
